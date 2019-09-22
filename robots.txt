@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ingijoobu.7bf.top/sitemap.xml
